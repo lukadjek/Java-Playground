@@ -1,6 +1,6 @@
 SPECIFICATION
 
-Short description: As the name suggests, I am here delivering a playground with a lot of different and interesting java programs.
+Short description: As the name suggests, I am here delivering a playground with a lot of different and interesting Java programs.
 
 Included in this project are the following exercises:
 
